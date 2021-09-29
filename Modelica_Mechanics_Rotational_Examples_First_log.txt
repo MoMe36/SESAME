@@ -1,0 +1,1 @@
+FMIL: module = Model, log level = 2: [logStatusError][FMU status:Error] fmi2GetContinuousStates: Illegal call sequence. fmi2GetContinuousStates is not allowed in Instantiated state.
